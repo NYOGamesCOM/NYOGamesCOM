@@ -4,10 +4,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NYOGamesCOM&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [MarkSoft](http://marksoft.play-network.io:26910/)
-
-- 👨‍💻 All of my projects are available at [http://marksoft.play-network.io:26910/portfolio](http://marksoft.play-network.io:26910/portfolio)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NYOGamesCOM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NYOGamesCOM&theme=dark&hide_border=false)<br/>
@@ -19,11 +15,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+### 🔭 I’m currently working on [MarkSoft](http://marksoft.play-network.io:26910/)
+
+### 👨‍💻 All of my projects are available at [http://marksoft.play-network.io:26910/portfolio](http://marksoft.play-network.io:26910/portfolio)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/13thomas_ttc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="13thomas_ttc" height="30" width="40" /></a>
 <a href="https://discord.gg/4Br57JmKYG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4Br57JmKYG" height="30" width="40" /></a>
-<a href="https://twitter.com/13thomas_ttc" target="blank"><img src="https://img.shields.io/twitter/follow/13thomas_ttc?logo=twitter&style=for-the-badge" alt="13thomas_ttc" /></a>
 </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=NYOGamesCOM&icon=0&color=0)](https://visitcount.itsvg.in)
