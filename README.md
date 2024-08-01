@@ -1,4 +1,4 @@
-## Hi there 👋
+![Alt](https://repobeats.axiom.co/api/embed/0f471f767a50b3f10f2c5a90a4efb1eb36fdaa8b.svg)
 
 <!--
 **NYOGamesCOM/NYOGamesCOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
