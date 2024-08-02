@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate backend developer from Romania</h3>
+<h3 align="center">A passionate full stack developer from Romania</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NYOGamesCOM&theme=radical&no-frame=true&no-bg=false&margin-w=4)
