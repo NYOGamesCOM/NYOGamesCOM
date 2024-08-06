@@ -25,7 +25,7 @@
 ## 👨‍💻 All of my projects are available at:
 <br />
 
-- [http://marksoft.play-network.io:26910/portfolio](http://marksoft.play-network.io:26910/portfolio)
+- [http://marksoft.play-network.io:26910/projects](http://marksoft.play-network.io:26910/projects)
 <br />
 
 ## 👨‍💻 Connect with me  
