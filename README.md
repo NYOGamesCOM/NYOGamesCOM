@@ -46,13 +46,13 @@
 ![](https://i.imgur.com/U8PNwMz.png)
 <br />
 
-WEBPAGE - [MarkSoft](http://marksoft.play-network.io:26910/)
+WEBPAGE - [MarkSoft](https://marksoft.ro)
 <br />
 
 ## 👨‍💻 All of my projects are available at:
 <br />
 
-- [Projects list](http://marksoft.play-network.io:26910/projects)
+- [Projects list](https://marksoft.ro/projects)
 <br />
 
 ## 👨‍💻 Connect with me  
