@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate full stack developer from Romania</h3>
+<h1 align="center">Marksoft.ro</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NYOGamesCOM&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NYOGamesCOM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NYOGamesCOM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NYOGamesCOM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Thomas!;I'm+a+full+stack+Developer...;And+I'm+a+proud+Romanian)](https://git.io/typing-svg)
+</div>
 
-# 💻 Tech Stack:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats: </b>
+
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+    <br></br>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NYOGamesCOM&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NYOGamesCOM&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NYOGamesCOM&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=NYOGamesCOM&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<br>
+
+![Thomas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NYOGamesCOM&custom_title=Thomas's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</p>        
+<br><br>
+
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -43,7 +69,7 @@
 
 
 ## 🔭 I’m currently working on :
-![](https://i.imgur.com/U8PNwMz.png)
+![](https://i.imgur.com/GVED8hE.png)
 <br />
 
 WEBPAGE - [MarkSoft](https://marksoft.ro)
@@ -66,6 +92,7 @@ WEBPAGE - [MarkSoft](https://marksoft.ro)
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=NYOGamesCOM&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
 </div>
 
 
