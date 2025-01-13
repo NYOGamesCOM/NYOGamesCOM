@@ -69,7 +69,7 @@
 
 
 ## 🔭 I’m currently working on :
-![](https://i.imgur.com/GVED8hE.png)
+![](https://i.imgur.com/NKBKV4e.png)
 <br />
 
 WEBPAGE - [MarkSoft](https://marksoft.ro)
