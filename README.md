@@ -13,9 +13,9 @@
 <td width="50%" align="center">
 <picture> <img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
     <br></br>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NYOGamesCOM&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=NYOGamesCOM&theme=vue-dark&show_icons=true&hide_border=false&count_private=false" alt="NYOGamesCOM's GitHub Stats"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NYOGamesCOM&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=NYOGamesCOM&theme=vue-dark&hide_border=false" alt="NYOGamesCOM's GitHub Stats"/> 
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NYOGamesCOM&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
