@@ -60,7 +60,7 @@ MarkSoft unifies **Discord, Twitch, Kick & YouTube** under one powerful dashboar
 | **[STT](https://marksoft.ro/stt)** | High-accuracy Speech-to-Text tool (local-first where possible) | Python |
 | **[AutoAI](https://marksoft.ro/autoai)** | Local AI video clip generator — turns long videos/YouTube/Twitch into Shorts/Reels/TikToks **without any cloud APIs** | Python |
 | **[AudioEditor](https://marksoft.ro/audioeditor)** | Clean, powerful audio editing suite | — |
-| **[DiskLens](https://disklens.app)** | Beautiful sunburst visualization for your storage. Find and delete space hogs instantly. | JavaScript |
+| **[DiskLens](https://marksoft.ro/disklens)** | Beautiful sunburst visualization for your storage. Find and delete space hogs instantly. | JavaScript |
 
 ---
 
