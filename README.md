@@ -1,4 +1,4 @@
-<h1 align="center">Marksoft.ro</h1>
+<h1 align="center">MarkSoft.ro</h1>
 
 <div align="center">
 
@@ -32,9 +32,57 @@
 ![Thomas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=NYOGamesCOM&custom_title=Thomas's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </p>        
-<br><br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack:
+<br>
+
+---
+
+## 🚀 Current Focus: [MarkSoft](https://marksoft.ro)
+
+**The ultimate AI-powered platform for streamers and communities.**
+
+MarkSoft unifies **Discord, Twitch, Kick & YouTube** under one powerful dashboard.
+
+- **AI Co-Streamer** with persistent memory & voice capabilities
+- Advanced moderation + minigames
+- Built-in music player, collaborative puzzles, 3D MMORPG elements, fishing system & more
+- Real-time TTS overlays for OBS
+- Custom AI personas that can search the web and execute commands
+
+**Over 200k users** across platforms. One dashboard to rule them all.
+
+---
+
+## 🛠️ Other Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[STT](https://marksoft.ro/stt)** | High-accuracy Speech-to-Text tool (local-first where possible) | Python |
+| **[AutoAI](https://marksoft.ro/autoai)** | Local AI video clip generator — turns long videos/YouTube/Twitch into Shorts/Reels/TikToks **without any cloud APIs** | Python |
+| **[AudioEditor](https://marksoft.ro/audioeditor)** | Clean, powerful audio editing suite | — |
+| **[DiskLens](https://disklens.app)** | Beautiful sunburst visualization for your storage. Find and delete space hogs instantly. | JavaScript |
+
+---
+
+## 💡 What Drives Me
+
+I love building **practical, high-impact tools** that solve real problems for creators and power users. From AI that actually runs locally to beautiful data visualizations — I focus on polish, performance, and user experience.
+
+Currently deep in:
+- Local-first AI applications
+- Creator economy tooling
+- Real-time systems & bots
+
+---
+
+## 🌐 Connect with me  
+<div align="center">
+<a href="https://x.com/13Thomas_TTC" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -61,329 +109,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![EJS](https://img.shields.io/badge/ejs-%2300C4CC.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Vanta](https://img.shields.io/badge/vanta-%23000000.svg?style=for-the-badge&logo=vanta&logoColor=white)
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-## 🔭 I’m currently working on :
-![](https://i.imgur.com/NKBKV4e.png)
-<br />
-
-WEBPAGE - [MarkSoft](https://marksoft.ro)
-<br />
-
-## 👨‍💻 All of my projects are available at:
-<br />
-
-- [Projects list](https://marksoft.ro/projects) @ https://marksoft.ro/projects
-<br />
-
-<table>
-    <tr>
-        <td><img src="https://i.imgur.com/maRgKxz.png" width="100" alt="Discord x Twitch Bot"></td>
-        <td>
-            <strong>Discord x Twitch Bot</strong><br>
-            A bot for managing and engaging with your community on Discord.<br>
-            <a href="http://marksoft.ro/">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://www.smartsheet.com/sites/default/files/2019-08/ic-barcode-inventory-management-how-a-barcode-scanner-works.svg" width="100" alt="Inventory Management"></td>
-        <td>
-            <strong>Inventory Management</strong><br>
-            A tool for inventory tracking and management with real-time barcode scanning.<br>
-            <a href="https://markscan.replit.app/">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IViZFF72X8ZbSoucy6hreWbWzg-3jBVVbA&s" width="100" alt="Meet and Greet"></td>
-        <td>
-            <strong>Meet and Greet</strong><br>
-            An app to organize social gatherings in Airbnb houses.<br>
-            <a href="http://marksoft.ro/meet-and-greet">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/4Kvdb9U.png" width="100" alt="OmniHub"></td>
-        <td>
-            <strong>OmniHub</strong><br>
-            A suite of tools like calendar, weather display, notes, and more.<br>
-            <a href="http://marksoft.ro/apps">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/K6CqgWF.png" width="100" alt="MarkSound"></td>
-        <td>
-            <strong>MarkSound</strong><br>
-            Choose instruments, transpose notes, and enjoy quick chord playback.<br>
-            <a href="http://marksoft.ro/marksound">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="" width="100" alt="WebCam Audio"></td>
-        <td>
-            <strong>WebCam Audio</strong><br>
-            Create music by moving in front of the webcam, different areas of the grid corresponding to musical notes.<br>
-            <a href="https://musical-instrument-app.vercel.app">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/v40x2Xa.png" width="100" alt="QR Code Generator"></td>
-        <td>
-            <strong>QR Code Generator</strong><br>
-            Generate QR codes easily.<br>
-            <a href="http://marksoft.ro/qr">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/JSz87Iw.png" width="100" alt="Loading screen"></td>
-        <td>
-            <strong>Loading screen</strong><br>
-            Loading screen for OBS.<br>
-            <a href="http://marksoft.ro/loadingscreen">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/ABzdHpG.png" width="100" alt="Deep Thoughts"></td>
-        <td>
-            <strong>Deep Thoughts</strong><br>
-            A collection of philosophical and metaphysical musings.<br>
-            <a href="http://marksoft.ro/deep-thoughts">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/pHsodN7.png" width="100" alt="Movies"></td>
-        <td>
-            <strong>Movies</strong><br>
-            A user-friendly interface for exploring movies.<br>
-            <a href="http://marksoft.ro/movies">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/SiFNu7k.jpeg" width="100" alt="Markflix"></td>
-        <td>
-            <strong>Markflix</strong><br>
-            A user-friendly interface for watching movies.<br>
-            <a href="http://marksoft.ro/stream">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/AWWq5Mj.png" width="100" alt="Rizz Generator"></td>
-        <td>
-            <strong>Rizz Generator</strong><br>
-            Enhance your chat game with this app.<br>
-            <a href="http://marksoft.ro/rizz">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/rp6p4Ef.png" width="100" alt="Blueprints"></td>
-        <td>
-            <strong>Blueprints</strong><br>
-            A tool for brainstorming and project planning.<br>
-            <a href="http://marksoft.ro/Blueprints2">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/hbwZCaL.png" width="100" alt="Universe Simulator"></td>
-        <td>
-            <strong>Universe Simulator</strong><br>
-            Explore universe creation and celestial mechanics.<br>
-            <a href="http://marksoft.ro/universe-sim">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/rCexj4T.png" width="100" alt="DJ Auto Mix"></td>
-        <td>
-            <strong>DJ Auto Mix</strong><br>
-            AI-powered DJ application for seamless mixing.<br>
-            <a href="http://marksoft.ro/dj">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/veYuQv3.png" width="100" alt="HTML Splitter"></td>
-        <td>
-            <strong>HTML Splitter</strong><br>
-            Extract CSS, JavaScript, and HTML content from a single HTML file.<br>
-            <a href="http://marksoft.ro/html-splitter">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/kgMzNTD.png" width="100" alt="Password Generator"></td>
-        <td>
-            <strong>Password Generator</strong><br>
-            Craft strong, secure passwords with a creative touch.<br>
-            <a href="http://marksoft.ro/passgen">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/hLtQEiJ.png" width="100" alt="AI LLM"></td>
-        <td>
-            <strong>AI LLM</strong><br>
-            An advanced AI LLM chat interface for interacting with AI models.<br>
-            <a href="http://marksoft.ro/ai-llm">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/hLtQEiJ.jpeg" width="100" alt="Insult AI Chat"></td>
-        <td>
-            <strong>Insult AI Chat</strong><br>
-            Dare to provoke an AI.<br>
-            <a href="http://marksoft.ro/ai-insult">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/hLtQEiJ.jpeg" width="100" alt="AI Chat"></td>
-        <td>
-            <strong>AI Chat</strong><br>
-            All models in one.<br>
-            <a href="http://marksoft.ro/ai-chat">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/crQbeF8.png" width="100" alt="Hangman"></td>
-        <td>
-            <strong>Hangman</strong><br>
-            Guess the hidden word by suggesting letters before the stick figure is fully drawn.<br>
-            <a href="http://marksoft.ro/game-hangman">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/prBEYMm.png" width="100" alt="Snake"></td>
-        <td>
-            <strong>Snake</strong><br>
-            Control a snake to eat food and grow longer without hitting walls or itself.<br>
-            <a href="http://marksoft.ro/game-snake">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/xXNk9Z4.png" width="100" alt="YouTube Tycoon"></td>
-        <td>
-            <strong>YouTube Tycoon</strong><br>
-            Create and manage a YouTube channel, attract viewers, and grow in popularity.<br>
-            <a href="http://marksoft.ro/game-youtube">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/oeIHPhP.png" width="100" alt="Survive the void"></td>
-        <td>
-            <strong>Survive the void</strong><br>
-            Fend off waves of space pirates attacking your ship in this action-adventure game.<br>
-            <a href="http://marksoft.ro/game-ships">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/yU93gtl.png" width="100" alt="Vampire Survivor"></td>
-        <td>
-            <strong>Vampire Survivor</strong><br>
-            Survive as a vampire by avoiding hunters and feeding on humans to grow stronger.<br>
-            <a href="http://marksoft.ro/game-vampire">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/OIrOBf3.png" width="100" alt="Zombies Survival"></td>
-        <td>
-            <strong>Zombies Survival</strong><br>
-            Fend off hordes of zombies, gather resources, and build defenses to survive.<br>
-            <a href="http://marksoft.ro/game-zombie">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/go86y37.png" width="100" alt="Macao"></td>
-        <td>
-            <strong>Macao</strong><br>
-            A shedding-type card game similar to Crazy Eights or Uno using a standard deck.<br>
-            <a href="http://marksoft.ro/game-macao">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/CIj7tQE.png" width="100" alt="Aquarium Simulator"></td>
-        <td>
-            <strong>Aquarium Simulator</strong><br>
-            Design and manage your own aquarium, ensuring a balanced ecosystem.<br>
-            <a href="http://marksoft.ro/game-aquarium">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/3cntJr8.png" width="100" alt="Software Inc"></td>
-        <td>
-            <strong>Software Inc</strong><br>
-            Build and manage a software company, designing offices and developing software.<br>
-            <a href="http://marksoft.ro/game-software">View Project</a> (Beta)
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/a6m8TFK.png" width="100" alt="Crystal Mineries"></td>
-        <td>
-            <strong>Crystal Mineries</strong><br>
-            Run a crystal mining operation and become a crystal tycoon in this idle game.<br>
-            <a href="http://marksoft.ro/game-clicker">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/IxtJ0di.png" width="100" alt="Wordle"></td>
-        <td>
-            <strong>Wordle</strong><br>
-            Guess the hidden word within a limited number of attempts using given clues.<br>
-            <a href="http://marksoft.ro/game-wordle">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/CUZEY2G.png" width="100" alt="Earth Clicker"></td>
-        <td>
-            <strong>Earth Clicker</strong><br>
-            A user-friendly interface for exploring movies.<br>
-            <a href="http://marksoft.ro/earth-clicker">View Project</a> (Beta)
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/7hYzegM.png" width="100" alt="Empire Tycoon"></td>
-        <td>
-            <strong>Empire Tycoon</strong><br>
-            Grow your empire from a small investment by purchasing and managing businesses.<br>
-            <a href="http://marksoft.ro/game-tycoon">View Project</a> (Beta)
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/9TLUWvo.jpeg" width="100" alt="Ant Simulator"></td>
-        <td>
-            <strong>Ant Simulator</strong><br>
-            An interactive simulation featuring two competing ant colonies.<br>
-            <a href="http://marksoft.ro/game-antsim">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/l0cSykI.jpeg" width="100" alt="Fishing Simulator"></td>
-        <td>
-            <strong>Fishing Simulator</strong><br>
-            An interactive fishing simulator.<br>
-            <a href="http://marksoft.ro/game-fishing">View Project</a>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/7fytBAi.jpeg" width="100" alt="Open TTD"></td>
-        <td>
-            <strong>Open TTD</strong><br>
-            Earn money by transporting passengers, minerals and goods via road, rail, water and air.<br>
-            <a href="http://marksoft.ro/game-openttd">View Project</a>
-        </td>
-    </tr>
-</table>
-
-
-## 👨‍💻 Connect with me  
-<div align="center">
-<a href="https://github.com/NYOGamesCOM" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/13Thomas_TTC" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</a>
-
-[![](https://visitcount.itsvg.in/api?id=NYOGamesCOM&icon=0&color=0)](https://visitcount.itsvg.in)
+![Vanta](https://img.shields.io/badge/vanta-%23000000.svg?style=for-the-badge&logo=vanta&logoColor=white[![](https://visitcount.itsvg.in/api?id=NYOGamesCOM&icon=0&color=0)](https://visitcount.itsvg.in)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAFF,100:5bcffff&height=120&section=footer"/>
 </div>
 
